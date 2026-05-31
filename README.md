@@ -99,7 +99,7 @@ Facultad de Arquitectura y Urbanismo (FAU)
 Universidad Nacional de La Plata (UNLP)  
 La Plata, Buenos Aires, Argentina  
 📧 mcreus@fau.unlp.edu.ar
----
+
 Licencia
 Copyright © 2025 Mariano Creus — SISEDlab, FAU-UNLP
 Este programa es software libre: podés redistribuirlo y/o modificarlo
