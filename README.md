@@ -47,8 +47,8 @@ streamlit run app_termotanque.py
 
 Uso en línea
 La app está desplegada públicamente en Streamlit Community Cloud:
-🔗 https://tu-usuario-termostrat-ep.streamlit.app
-(Reemplazar con la URL real una vez desplegada)
+🔗 https://github.com/marianocreus/TermoStrat-1D.app
+
 
 Estructura del repositorio
 ```
